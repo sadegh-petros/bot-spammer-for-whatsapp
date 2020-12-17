@@ -2,7 +2,7 @@ from selenium import webdriver
 from time import sleep
 import os
 os.system('cls' or 'clear')
-
+ 
 class color : 
     GREEN = '\033[92m'
     RED = '\033[91m'
